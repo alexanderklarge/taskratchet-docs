@@ -15,4 +15,4 @@ You decide what you want to do, when you want to do it by, and how much you’ll
 - Add the name of the Beeminder goal you'd like TaskRatchet to post your new tasks to.
 - Click "Save."
 - The integration works by adding 1 to the Beeminder goal you selected every time you create a new task.
-- As yet, there is no way to track completed tasks.
+- As of yet, there is no way to track completed tasks.
